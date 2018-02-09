@@ -6,8 +6,8 @@
  * Author: Alex Sancho
  * Author URI: http://alexsancho.name
  * License: MIT
- * License URI: https://github.com/alexsancho/wp-admin-no-ajax/blob/master/LICENSE
- * Version: 1.0.2
+ * License URI: https://opensource.org/licenses/MIT
+ * Version: 1.0.0
  */
 
 namespace Asancho\Helper;
