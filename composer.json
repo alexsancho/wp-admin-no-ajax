@@ -1,5 +1,5 @@
 {
-  "name": "alexsancho/wp-no-admin-ajax",
+  "name": "alexsancho/wp-admin-no-ajax",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "A WordPress plugin that lightens the WP AJAX routine and directs the requests to front-end rather than admin back-end.",
