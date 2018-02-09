@@ -1,0 +1,18 @@
+{
+  "name": "alexsancho/wp-no-admin-ajax",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "A WordPress plugin that lightens the WP AJAX routine and directs the requests to front-end rather than admin back-end.",
+  "authors": [
+    {
+      "name": "Alex Sancho",
+      "email": "alex@alexsancho.name",
+      "homepage" : "https://github.com/alexsancho"
+    }
+  ],
+  "require": {
+    "php": ">=5.6",
+    "roave/security-advisories": "dev-master",
+    "composer/installers": "^v1.0.12"
+  }
+}
